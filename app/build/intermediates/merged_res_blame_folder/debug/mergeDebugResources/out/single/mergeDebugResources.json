@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/drawable-v26_ic_foreground.png.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/drawable-v26/ic_foreground.png"
+    },
+    {
+        "merged": "jp.takeda0123.fiftyonkeyboardime.app-debug-46:/layout_keyboard_abc.xml.flat",
+        "source": "jp.takeda0123.fiftyonkeyboardime.app-main-48:/layout/keyboard_abc.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/layout_keyboard_abc.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/layout/keyboard_abc.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/drawable-v26_ic_launcher_background.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/drawable-v26/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/xml_method.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/xml/method.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/drawable-v26_keyboard_button_border.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/drawable-v26/keyboard_button_border.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/layout_keyboard.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/layout/keyboard.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/xml_backup_rules.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/layout_keyboard_qwerty.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/layout/keyboard_qwerty.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "jp.takeda0123.fiftyonkeyboardime.app-debug-46:/layout_keyboard_qwerty.xml.flat",
+        "source": "jp.takeda0123.fiftyonkeyboardime.app-main-48:/layout/keyboard_qwerty.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/drawable-v26_ic_launcher_foreground.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/drawable-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "jp.takeda0123.fiftyonkeyboardime.app-debug-46:/layout_keyboard.xml.flat",
+        "source": "jp.takeda0123.fiftyonkeyboardime.app-main-48:/layout/keyboard.xml"
+    },
+    {
+        "merged": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-debug-46:/layout_dialog_color_settings.xml.flat",
+        "source": "/home/0123takeda0123/.gradle/daemon/8.13/jp.takeda0123.fiftyonkeyboardime.app-main-48:/layout/dialog_color_settings.xml"
+    }
+]
