@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard_root"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:splitMotionEvents="false">
+
+    <LinearLayout
+        android:id="@+id/preview_container"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/preview_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|start"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp"
+            android:singleLine="true"
+            android:ellipsize="none"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="10sp"
+            android:autoSizeMaxTextSize="24sp"
+            android:autoSizeStepGranularity="2sp"
+            android:maxLines="1"
+            android:text="　"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main_keyboard_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/primary_color">
+
+        <!-- 漢字候補 -->
+        <LinearLayout
+            android:id="@+id/candidate_container"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:orientation="horizontal">
+            <Button android:id="@+id/kanji_1" style="@style/KanjiButton"/>
+            <Button android:id="@+id/kanji_2" style="@style/KanjiButton"/>
+            <Button android:id="@+id/kanji_3" style="@style/KanjiButton"/>
+            <Button android:id="@+id/kanji_4" style="@style/KanjiButton"/>
+        </LinearLayout>
+
+        <!-- キーボード本体 -->
+        <GridLayout
+            android:id="@+id/keys"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="11"
+            android:orientation="horizontal">
+
+
+            <!-- 数字列 -->
+            <Button android:id="@+id/ABC" style="@style/KeyboardButton" android:text="qwerty"/>
+            <Button android:id="@+id/key_1" style="@style/KeyboardButton" android:text="1"/>
+            <Button android:id="@+id/key_2" style="@style/KeyboardButton" android:text="2"/>
+            <Button android:id="@+id/key_3" style="@style/KeyboardButton" android:text="3"/>
+            <Button android:id="@+id/key_4" style="@style/KeyboardButton" android:text="4"/>
+            <Button android:id="@+id/key_5" style="@style/KeyboardButton" android:text="5"/>
+            <Button android:id="@+id/key_6" style="@style/KeyboardButton" android:text="6"/>
+            <Button android:id="@+id/key_7" style="@style/KeyboardButton" android:text="7"/>
+            <Button android:id="@+id/key_8" style="@style/KeyboardButton" android:text="8"/>
+            <Button android:id="@+id/key_9" style="@style/KeyboardButton" android:text="9"/>
+            <Button android:id="@+id/key_0" style="@style/KeyboardButton" android:text="0"/>
+
+            <!-- 1行目: QWERTYUIOP -->
+            <Button android:id="@+id/shift" style="@style/KeyboardButton" android:text="Aa"/>
+            <Button android:id="@+id/a" style="@style/KeyboardButton" android:text="a"/>
+            <Button android:id="@+id/b" style="@style/KeyboardButton" android:text="b"/>
+            <Button android:id="@+id/c" style="@style/KeyboardButton" android:text="c"/>
+            <Button android:id="@+id/d" style="@style/KeyboardButton" android:text="d"/>
+            <Button android:id="@+id/e" style="@style/KeyboardButton" android:text="e"/>
+            <Button android:id="@+id/f" style="@style/KeyboardButton" android:text="f"/>
+            <Button android:id="@+id/g" style="@style/KeyboardButton" android:text="g"/>
+            <Button android:id="@+id/h" style="@style/KeyboardButton" android:text="h"/>
+            <Button android:id="@+id/i" style="@style/KeyboardButton" android:text="i"/>
+            <Button android:id="@+id/del" style="@style/KeyboardButton" android:text="\u232B"/>
+
+            <!-- 2行目: ASDFGHJKL -->
+            <Button android:id="@+id/quo" style="@style/KeyboardButton" android:text="&quot;"/>
+            <Button android:id="@+id/j" style="@style/KeyboardButton" android:text="j"/>
+            <Button android:id="@+id/k" style="@style/KeyboardButton" android:text="k"/>
+            <Button android:id="@+id/l" style="@style/KeyboardButton" android:text="l"/>
+            <Button android:id="@+id/m" style="@style/KeyboardButton" android:text="m"/>
+            <Button android:id="@+id/n" style="@style/KeyboardButton" android:text="n"/>
+            <Button android:id="@+id/o" style="@style/KeyboardButton" android:text="o"/>
+            <Button android:id="@+id/p" style="@style/KeyboardButton" android:text="p"/>
+            <Button android:id="@+id/q" style="@style/KeyboardButton" android:text="q"/>
+            <Button android:id="@+id/r" style="@style/KeyboardButton" android:text="r"/>
+            <Button android:id="@+id/eqs" style="@style/KeyboardButton" android:text="!"/>
+
+            <!-- 3行目: ZXCVBNM -->
+            <Button android:id="@+id/setting" style="@style/KeyboardButton" android:text="\u2699"/>
+            <Button android:id="@+id/s" style="@style/KeyboardButton" android:text="s"/>
+            <Button android:id="@+id/t" style="@style/KeyboardButton" android:text="t"/>
+            <Button android:id="@+id/u" style="@style/KeyboardButton" android:text="u"/>
+            <Button android:id="@+id/v" style="@style/KeyboardButton" android:text="v"/>
+            <Button android:id="@+id/w" style="@style/KeyboardButton" android:text="w"/>
+            <Button android:id="@+id/x" style="@style/KeyboardButton" android:text="x"/>
+            <Button android:id="@+id/y" style="@style/KeyboardButton" android:text="y"/>
+            <Button android:id="@+id/z" style="@style/KeyboardButton" android:text="z"/>
+            <Button android:id="@+id/sp" style="@style/KeyboardButton" android:text="\u2423"/>
+            <Button android:id="@+id/qes" style="@style/KeyboardButton" android:text="?"/>
+        </GridLayout>
+    </LinearLayout>
+</LinearLayout>
