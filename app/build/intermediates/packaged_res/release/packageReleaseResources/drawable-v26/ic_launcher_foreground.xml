@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 背景を白にする -->
+    <background android:drawable="@color/ic_launcher_background"/>
+
+    <!-- 前景にPNGを指定 -->
+    <foreground android:drawable="@drawable/ic_foreground"/>
+
+</adaptive-icon>
