@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard_root"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:splitMotionEvents="false">
+
+
+    <LinearLayout
+        android:id="@+id/main_keyboard_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/primary_color">
+
+        <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/colorGrid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:columnCount="5"
+            android:padding="16dp">
+
+            <Button
+                android:id="@+id/color_white"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="#FFFFFF"
+                android:textColor="#000000"
+                android:textSize="50sp"
+                android:text="あ"/>
+
+            <Button
+                android:id="@+id/color_yellow"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="#F6EFDC"
+                android:textColor="#000000"
+                android:textSize="50sp"
+                android:text="あ"/>
+
+            <Button
+                android:id="@+id/color_green"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="#E1E7CB"
+                android:textColor="#000000"
+                android:textSize="50sp"
+                android:text="あ"/>
+
+            <Button
+                android:id="@+id/color_gray"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="#3B3A3F"
+                android:textColor="#FFFFFF"
+                android:textSize="50sp"
+                android:text="あ"/>
+
+            <Button
+                android:id="@+id/color_black"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="#000000"
+                android:textColor="#FFFFFF"
+                android:textSize="50sp"
+                android:text="あ"/>
+
+            <Switch
+                android:id="@+id/switch_preview"
+                android:layout_width="0dp"
+                android:layout_gravity="fill_horizontal"
+                android:layout_height="wrap_content"
+                android:text="プレビュー表示"
+                android:layout_columnWeight="1"
+                android:layout_columnSpan="5"
+                android:textSize="50sp"
+                android:switchMinWidth="60dp"
+                android:padding="16dp" />
+
+        </GridLayout>
+
+    </LinearLayout>
+</LinearLayout>
