@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\layout_keyboard_abc.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\layout\\keyboard_abc.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\xml_method.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "jp.takeda0123.fiftyonkeyboardime.app-release-42:/layout_keyboard.xml.flat",
+        "source": "jp.takeda0123.fiftyonkeyboardime.app-main-43:/layout/keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\layout_keyboard_qwerty.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\layout\\keyboard_qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\layout_keyboard.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\drawable-v26_ic_foreground.png.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\drawable-v26\\ic_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\drawable-v26_keyboard_button_border.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\drawable-v26\\keyboard_button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\drawable-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\drawable-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\drawable-v26_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\drawable-v26\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-release-42:\\layout_dialog_color_settings.xml.flat",
+        "source": "C:\\Users\\tenpu\\.gradle\\daemon\\8.13\\jp.takeda0123.fiftyonkeyboardime.app-main-43:\\layout\\dialog_color_settings.xml"
+    }
+]
