@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Activity 用 -->
+    <style name="Theme.FiftyOnKeyboardIME"
+        parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- IME 専用 -->
+    <style name="Theme.FiftyOnKeyboardIME.Ime"
+        parent="android:Theme.Material.Light.NoActionBar">
+
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+
+    </style>
+
+</resources>
